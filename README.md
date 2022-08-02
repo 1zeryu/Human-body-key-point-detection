@@ -79,6 +79,10 @@ You need to modify, debug and generate apk file in professional Android developm
 
 《第一行代码》  -- 郭霖
 
+链接：https://pan.baidu.com/s/1vjiqegf_LRl90xg-vr8gAg 
+提取码：idea 
+--来自百度网盘超级会员V2的分享
+
 #### Paper
 
-(BlazePose: On-device Real-time Body Pose tracking)  --Valentin Bazarevsky, Ivan Grishchenko, Karthik Raveendran, Tyler Zhu, Fan Zhang, Matthias Grundmann, Google Research
+([BlazePose: On-device Real-time Body Pose tracking)](https://arxiv.org/pdf/2006.10204v1.pdf) )  --Valentin Bazarevsky, Ivan Grishchenko, Karthik Raveendran, Tyler Zhu, Fan Zhang, Matthias Grundmann, Google Research
