@@ -11,7 +11,9 @@ git clone https://github.com/1zeryu/Human-body-key-point-detection.git
 
 BlazePose is a lightweight, on-device single person-specific human pose estimation model.
 
-![1659335565937](img/1659335565937.png)
+![1659860335399](img/1659860335399.png)
+
+![1659860311613](img/1659860311613.png)
 
 Paper:  [2006.10204v1.pdf (arxiv.org)](https://arxiv.org/pdf/2006.10204v1.pdf) 
 
